@@ -1,0 +1,19 @@
+//
+//  ViewController.swift
+//  FirstIOSApp
+//
+//  Created by Tito Rivera on 1/5/23.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
