@@ -39,11 +39,8 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var petSwitch: UISwitch!
     
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
 
